@@ -1,0 +1,13 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
+Naked==0.1.32
+pycryptodome==3.20.0
+PySide6==6.6.1
+PySide6-Addons==6.6.1
+PySide6-Essentials==6.6.1
+PyYAML==6.0.1
+requests==2.31.0
+shellescape==3.8.1
+shiboken6==6.6.1
+urllib3==2.1.0
