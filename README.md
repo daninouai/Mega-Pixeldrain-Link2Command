@@ -6,6 +6,8 @@
 
 simple and efficient GUI tool that allows users to download files from Mega and Pixeldrain without the need to install specific applications such as Megatools. The program swiftly converts the provided links into Linux commands using Curl and Wget, enabling users to execute them in the terminal environment.
 
+![Screenshot_20230418_0033438](https://raw.githubusercontent.com/daninouai/Mega-Pixeldrain-Link2Command/master/preview.png)
+
 Key features of the "Mega Pixeldrain Link2Command" program include:
 
 * Support for Mega and Pixeldrain: <br>
